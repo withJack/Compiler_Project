@@ -1,0 +1,6 @@
+int asdf;
+
+int main(void) {
+	asdf = 1;
+	return 0;
+}
